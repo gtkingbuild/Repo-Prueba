@@ -358,7 +358,7 @@
 
     	<description lang="es">
 [B]• Developers:[/B] [COLOR gold]JoseaTEBA y DavidZgZ[/COLOR]
-[B]• Testers:[/B]        [COLOR dodgerblue]Sugea, Vicente,
+[B]• Testers:[/B]        [COLOR dodgerblue]ehSugea, Vicente,
                          Tete6776, Mapache,
                          Malibu, galaico11.[/COLOR]
 [B]• Telegram:[/B]    [COLOR lime]t.me/beelinkking[/COLOR]</description>
@@ -600,7 +600,8 @@ Testers: Luisma, Toni, Zarat, SuperTopo, Jorge, Bojbit, MiKeL, Chikiry, Pau, Ale
 
     <extension point="xbmc.addon.metadata">
         <summary>[COLOR steelblue]Repo[/COLOR] [COLOR azure]GTKing[/COLOR] [COLOR limegreen]MATRIX[/COLOR]</summary>
-        <description>Repositorio de addons [COLOR dodgerblue]GTKING[/COLOR].</description>
+        <description>Repositorio de addons [COLOR dodgerblue]GTKING[/COLOR]. 
+		             [COLOR gold]Developers:[/COLOR] Davidzgz, JoseaTEBA y GTKing TEAM</description>
         <disclaimer>Éste repositorio sólo recoge addons válidos para Kodi 19.x MATRIX.</disclaimer>
         <platform>all</platform>
         <assets>
